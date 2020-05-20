@@ -1,3 +1,4 @@
 ligne 1  gdgdgd
-ligne 2  gf dg ggs s s
+ligne 2  gf dg ggs s s cette ligne est modifiée
 ligne 3 fin du développement
+nouvelle ligne
